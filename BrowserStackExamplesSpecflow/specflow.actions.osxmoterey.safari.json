@@ -1,0 +1,11 @@
+{
+  "selenium": {
+    "defaultTimeout": 60,
+    "pollingInterval": 5,
+    "browser": "Safari",
+    "capabilities": {
+      "os": "OS X",
+      "os_version": "Monterey"
+    }
+  }
+}

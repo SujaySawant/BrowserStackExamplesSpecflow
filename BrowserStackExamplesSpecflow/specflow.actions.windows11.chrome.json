@@ -1,0 +1,11 @@
+{
+  "selenium": {
+    "defaultTimeout": 60,
+    "pollingInterval": 5,
+    "browser": "Chrome",
+    "capabilities": {
+      "os": "Windows",
+      "os_version": "11"
+    }
+  }
+}

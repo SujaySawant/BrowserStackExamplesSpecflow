@@ -1,0 +1,14 @@
+{
+  "selenium": {
+    "defaultTimeout": 60,
+    "pollingInterval": 5,
+    "capabilities": {
+      "project": "BrowserStackExamplesSpecflow",
+      "build": "Specflow Examples",
+      "browserstack.local": true
+    },
+    "browserstack": {
+      "url": "https://hub-cloud.browserstack.com/wd/hub/"
+    }
+  }
+}
